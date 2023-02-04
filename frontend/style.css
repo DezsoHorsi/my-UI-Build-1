@@ -37,4 +37,12 @@ button {
   font-family: 'Montserrat', sans-serif;
   border: none;
   border-radius: 50%;
+  position: relative;
+}
+
+div {
+  padding-bottom: 20px;
+  position: absolute;
+  top: -10px;
+  left: 50px;
 }
